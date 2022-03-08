@@ -34,8 +34,11 @@ labii.Tables.list()
 * one labii account. Create one at [https://www.labii.com/signup/](https://www.labii.com/signup/)
 
 ## Example 1
+
 ![Address widget](https://www.labii.com/media/docs/widget-column-address-readonly.png)
+
 ![Address widget](https://www.labii.com/media/docs/widget-column-edit-readonly.png)
+
 To handle address information, Labii recently released a new column widget - Address. In the past, you may have had a few fields to handle one address:
 * street address
 * city
